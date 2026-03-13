@@ -1,3 +1,8 @@
-welcome to siddaganga
-polytechnic sa lab
-A1 batch
+class one
+{
+public static void main(String args[])
+{
+System.out.println("welcome to SE lab");
+System.out.println("welcome to siddaganga"):
+}
+}
